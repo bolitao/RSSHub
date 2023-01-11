@@ -309,6 +309,15 @@
     "/audiobar/latest": [
         "zxzhuty"
     ],
+    "/baai/hub/comments": [
+        "TonyRL"
+    ],
+    "/baai/hub/events": [
+        "TonyRL"
+    ],
+    "/baai/hub/:tagId?/:sort?/:range?": [
+        "TonyRL"
+    ],
     "/baidu/gushitong/index": [
         "CaoMeiYouRen"
     ],
@@ -1729,6 +1738,9 @@
     "/gov/xuzhou/hrss/:category?": [
         "nczitzk"
     ],
+    "/gq/tw/:caty?/:subcaty?": [
+        "nczitzk"
+    ],
     "/greasyfork/:language/:domain?": [
         "imlonghao",
         "miles170"
@@ -1800,6 +1812,10 @@
     ],
     "/hackertalk/": [
         "hyoban"
+    ],
+    "/hackmd/profile/:path": [
+        "Yukaii",
+        "kaiix"
     ],
     "/hafu/news/:tpye?": [
         "WenPeiTung"
@@ -1957,6 +1973,9 @@
         "nczitzk"
     ],
     "/hotukdeals/:type": [
+        "DIYgod"
+    ],
+    "/hotukdeals/hottest": [
         "DIYgod"
     ],
     "/houxu/events": [
@@ -3617,6 +3636,9 @@
     "/shopback/:store": [
         "nczitzk"
     ],
+    "/shoppingdesign/posts": [
+        "miles170"
+    ],
     "/shuiguopai/": [
         "nczitzk"
     ],
@@ -4115,6 +4137,12 @@
     ],
     "/tynu/": [
         "2PoL"
+    ],
+    "/typora/changelog": [
+        "cnzgray"
+    ],
+    "/typora/changelog/dev": [
+        "nczitzk"
     ],
     "/u3c3/:type?/:keyword?": [
         "noname1897"
@@ -5099,8 +5127,6 @@
     "/tits-guru/daily": [],
     "/tits-guru/category/:type": [],
     "/tits-guru/model/:name": [],
-    "/typora/changelog": [],
-    "/typora/changelog-dev/:os?": [],
     "/tssstatus/:board/:build": [],
     "/anime1/anime/:time/:name": [],
     "/anime1/search/:keyword": [],
@@ -5829,7 +5855,6 @@
     "/feixuew/:id?": [],
     "/1x/:category?": [],
     "/jx3/:caty?": [],
-    "/gq/tw/:caty?/:subcaty?": [],
     "/qzcea/:caty?": [],
     "/fulinian/:caty?": [],
     "/cgtn/top": [],
